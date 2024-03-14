@@ -6,4 +6,6 @@ Behöver du hjälp med något av följande:
 * E-handel
 * UI/UX design
 
+Så kan vi säkerligen hjälpa dig!
+
 [Besök oss för hjälp med en ny hemsida!](https://accelor.se 'Accelor - Hemsidor, Webbutveckling & UI/UX')
